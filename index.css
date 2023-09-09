@@ -1,0 +1,82 @@
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+.top {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 25px;
+}
+
+.top .hint {
+  font-size: 12px;
+}
+
+.top a img {
+  padding-top: 10px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.main {
+  position: relative;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 0 12px;
+  font-size: 20px;
+}
+
+.main img {
+  width: 200px;
+}
+
+.main i {
+  padding-top: 10px;
+  color: rgb(53, 240, 12);
+  font-size: 25px;
+}
+
+.main .icon {
+  font-size: 24px;
+  left: 16px;
+  top: 525px;
+}
+
+.main .span1,
+.main .span2 {
+  font-size: 16px;
+}
+
+.main p span {
+  font-size: 10px;
+  color: #aaa;
+  word-spacing: normal;
+}
+
+.main .contact {
+  vertical-align: text-bottom;
+}
+
+.bottom {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 33px;
+}
+
+h1,
+h2 {
+  margin: 0 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bottom a:hover {
+  color: blue;
+}

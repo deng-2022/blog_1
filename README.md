@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 项目名称
 > 请介绍一下你的项目吧  
 
@@ -32,6 +33,8 @@
 ## 协作者
 > 高效的协作会激发无尽的创造力，将他们的名字记录在这里吧
 =======
+=======
+>>>>>>> 608d5c4 (快速部署静态网站)
 # quick_test
 
 #### 介绍
@@ -69,4 +72,10 @@
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<<<<<<< HEAD
 >>>>>>> 5389779 (Initial commit)
+=======
+=======
+# Memory
+>>>>>>> 37a4e84 (快速部署静态网站)
+>>>>>>> 608d5c4 (快速部署静态网站)
